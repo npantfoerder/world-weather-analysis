@@ -3,11 +3,13 @@ config.py
 
 # Adding additional files
 API_practice.ipynb
+Google_nearby_search.ipynb
+linear_regression.ipynb
 random_functions.ipynb
 traversing_JSONs.ipynb
 try-except.ipynb
-linear_regression.ipynb
-Google_nearby_search.ipynb
+VacationPy.ipynb
+WeatherPy.ipynb
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
