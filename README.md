@@ -18,4 +18,4 @@ Specifically, the project is to use Jupyter Notebook and APIs to retrieve and an
 
 ### Resources
 - APIs: OpenWeatherMap, Google Maps Platform
-- Software: Python 3.7.3, Anaconda 4.8.3, Matplotlib 3.2.2, Requests 2.24.0, SciPy 
+- Software: Python 3.7.3, Anaconda 4.8.3, Matplotlib 3.2.2, Requests 2.24.0, SciPy 1.5.0
