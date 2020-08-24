@@ -5,7 +5,7 @@ Specifically, the project is to use Jupyter Notebook and APIs to retrieve and an
 
 1) Collect Data
  - Generate random latitudes and longitudes
- - Use CityPy module to find the nearest cities and the OpenWeatherMap API to request current weather data
+ - Use CitiPy module to find the nearest cities and the OpenWeatherMap API to request current weather data
  - Parse the JSON data, store it in a DataFrame, and create a CSV file
  
  2) Exploratory Analysis
